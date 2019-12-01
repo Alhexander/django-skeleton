@@ -38,3 +38,5 @@ DATABASES = {
 }
 
 ```
+    $ pip freeze > requirements.txt 
+```
